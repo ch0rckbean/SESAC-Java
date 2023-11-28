@@ -24,7 +24,6 @@ public class Casting {
     
     System.out.println("anotherBigNumber: " + anotherBigNumber);
     System.out.println("anotherSmallNumber: " + anotherSmallNumber); //20
-
   }
 }
 
