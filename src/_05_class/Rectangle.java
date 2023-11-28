@@ -33,8 +33,6 @@ public class Rectangle {
 	
 	public static void main(String[] args) {
 
-	
-		
 		// 메소드 사용
 		
 		ArrayList<Rectangle> rect=new ArrayList<>();
