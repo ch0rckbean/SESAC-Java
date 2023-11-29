@@ -100,8 +100,6 @@ public class ArrayListEx {
 }
     
 
-  }
-}
 class Student{
 	//필드
 	private String name;

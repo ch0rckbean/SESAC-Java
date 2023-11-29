@@ -14,11 +14,11 @@ public class ConditionalStatement {
 		}
 		
 		// String 객체 비교
-//		System.out.println("이름을 입력해주세요");
-//		Scanner sc=new Scanner(System.in);
-//		String name=sc.nextLine(); //엔터 이전까지의 문자열 읽기
-//		System.out.println("name값 확인: "+ name);
-//		
+		System.out.println("이름을 입력해주세요");
+		Scanner sc=new Scanner(System.in);
+		String name=sc.nextLine(); //엔터 이전까지의 문자열 읽기
+		System.out.println("name값 확인: "+ name);
+
 		
 		///// equlas()
 		// BAD
@@ -78,6 +78,7 @@ public class ConditionalStatement {
 	    }
 
 	    // if ~ else if 문
+		int number=3;
 	    if (number % 3 == 0) {
 	      System.out.println("3의 배수");
 	    } else if (number % 5 == 0) {
