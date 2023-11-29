@@ -35,7 +35,7 @@ public class LinkedListEx {
         // - LinkedList가 ArrayList 보다 요소 추가에 대해 더 빠른 성능 냄
         // - ArrayList는 0번 인덱스에 새로운 요소를 추가하며 기존 요소 인덱스를 한 칸씩 뒤로 미루는 작업을 하기 때문
 
-        // ArrayList vs. LinkedList
+        // ** ArrayList vs. LinkedList
         // * ArrayList
         // - 내부 배열에 객체 저장
         // - 장점: '인덱스 사용한 요소 접근' 빠름
