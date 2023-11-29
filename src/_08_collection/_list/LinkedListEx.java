@@ -1,4 +1,4 @@
-package _08_collection_list;
+package _08_collection._list;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
